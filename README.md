@@ -25,3 +25,11 @@ flutter run
 ```
 
 # [apk-файл](apk/app-release.apk)
+
+# Screenshots
+
+![signIn](screenshots/signIn.png)
+![signUp](screenshots/signUp.png)
+![app](screenshots/app.png)
+![map](screenshots/map.png)
+![search](screenshots/search.png)
