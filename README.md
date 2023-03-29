@@ -23,8 +23,17 @@ flutter pub get
 ```zsh
 flutter run
 ```
+# apk
 
-# [apk-файл](apk/app-release.apk)
+[apk-файл](apk/app-release.apk)
+
+### Запуск приложения на Android emulator
+
+Необходимо скачать apk-файл и запустить Android emulator
+
+```zsh
+adb install apk/app-release.apk
+```
 
 # Screenshots
 
